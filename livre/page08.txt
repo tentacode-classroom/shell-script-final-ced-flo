@@ -2,7 +2,7 @@
 
 Vous arrivez au sommet des marches.
 Vous sortez.
-Vous êtes... LIBRE !
+Vous êtes... \033[0;32mLIBRE\033[0m !
 
 Mais le facteur chance n'étant pas de votre côté. Vous attrapez une embolie pulmonaire.
-Et vous mourrez sur le coup ¯\_(ツ)_/¯
+Et vous \033[0;31mmourrez \033[0m sur le coup ¯\_(ツ)_/¯

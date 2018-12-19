@@ -1,6 +1,6 @@
--Page 02-
+﻿-Page 02-
 
 Vous prenez un pavé que vous trouvez sur le sol de la cellule.
 Vous visez le garde et effectuez un lancer digne de Lance Armstrong.
 Le pavé part tel une fusée, ricoche sur les bareaux de la cellule et fini sa course dans votre front.
-Vous êtes mort...
+Vous êtes \033[0;31mmort\033[0m...
