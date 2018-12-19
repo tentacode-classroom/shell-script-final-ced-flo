@@ -2,5 +2,5 @@
 
 Vous prenez un pavé que vous trouvez sur le sol de la cellule.
 Vous visez le garde et effectuez un lancer digne de Lance Armstrong.
-Le pavé part tel une fusée, ricoche sur les bareaux de la cellules et fini sa course dans votre front.
+Le pavé part tel une fusée, ricoche sur les bareaux de la cellule et fini sa course dans votre front.
 Vous êtes mort...
