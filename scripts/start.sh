@@ -2,4 +2,4 @@
 
 CUR_DIR=`dirname $0`
 
-./$CUR_DIR/display_page.sh 1
+./$CUR_DIR/display_page.sh 01
