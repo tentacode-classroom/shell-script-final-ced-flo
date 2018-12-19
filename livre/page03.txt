@@ -1,0 +1,9 @@
+-Page 03-
+
+Vous réussissez à prendre le trousseau de clefs du garde.
+Il y a 15 clefs sur celui-ci.
+Que faites-vous ?
+
+[1]Essayer les clefs une à une (Page 05)
+[2]Essayer la 4ème clef adamantine en partant de la gauche selon l'heure solaire de cette nuit de pleine lune ensoleillée vu depuis Vénus (Page 06)
+[3]Ne rien faire (Page 04)

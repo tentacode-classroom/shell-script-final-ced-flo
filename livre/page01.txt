@@ -1,0 +1,11 @@
+-Page 01-
+
+Vous vous réveillez dans une cellule. Vous êtes pieds nus. Le sol est froid, mais vous êtes en vie... Pour le moment.
+Vous vous souvenez que vous êtes condamné à une mort certaine si vous rester dans cette cellule.
+Votre objectif premier (et le seul) est donc de sortir d'ici. Et vite.
+
+Le garde qui surveille votre cellule semble s'être assoupi, vous remarquez un trousseau de clefs qui pendouillent à sa ceinture.
+
+[1]Prendre un pavé et le lancer sur le garde (Page 2)
+[2]Essayer de prendre les clefs de la ceinture du garde (Page 3)
+[3]Ne rien faire (Page 4)
